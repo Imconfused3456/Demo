@@ -1,0 +1,11 @@
+#purchase-form {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.card-no {
+    display: inline;
+}
+#card-number1, #card-number2, #card-number3, #card-number4 {
+    width: max-content;
+}
